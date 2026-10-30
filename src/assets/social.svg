@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f7f8fa"/>
+<path d="M0 570H1200M1040 0V630" stroke="#e0e3e9"/>
+<rect x="72" y="62" width="64" height="64" rx="18" fill="#5b45ce"/>
+<g transform="translate(72 62)"><g fill="#fff"><circle cx="19" cy="19" r="9"/><circle cx="45" cy="19" r="9"/><rect x="12" y="19" width="40" height="32" rx="15"/></g><g fill="#5b45ce"><circle cx="24" cy="32" r="3"/><circle cx="40" cy="32" r="3"/><path d="m28 40 4 5 4-5z"/></g></g>
+<text x="154" y="105" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#202534">Squeekchain</text>
+<rect x="917" y="74" width="208" height="44" rx="22" fill="#edf7f1"/>
+<circle cx="942" cy="96" r="5" fill="#18734f"/>
+<text x="960" y="104" font-family="Arial,sans-serif" font-size="22" fill="#18734f">Sepolia testnet</text>
+<text x="72" y="282" font-family="Arial,sans-serif" font-size="84" font-weight="bold" letter-spacing="-4" fill="#202534">Squeek Tx Lab<tspan fill="#5b45ce">.</tspan></text>
+<text x="76" y="342" font-family="Arial,sans-serif" font-size="30" fill="#636b7c">Your workbench for Squeekchain transactions.</text>
+<rect x="76" y="405" width="235" height="62" rx="10" fill="#5b45ce"/>
+<text x="110" y="444" font-family="Arial,sans-serif" font-size="25" fill="#fff">Connect. Try. Learn.</text>
+<g stroke="#b5a6e8" stroke-width="2" fill="none"><circle cx="998" cy="328" r="105"/><circle cx="998" cy="328" r="80" stroke-dasharray="3 8"/><path d="M878 328H847m271 0h30M998 208v-30m0 270v30"/></g>
+<g transform="translate(943 273) scale(1.72)"><g fill="#e9e3fc"><circle cx="19" cy="19" r="9"/><circle cx="45" cy="19" r="9"/><rect x="12" y="19" width="40" height="32" rx="15"/></g><g fill="#5b45ce"><circle cx="24" cy="32" r="3"/><circle cx="40" cy="32" r="3"/><path d="m28 40 4 5 4-5z"/></g></g>
+<text x="76" y="607" font-family="Arial,sans-serif" font-size="20" fill="#636b7c">SQK transfers · Approvals · Onchain games · Token launches</text>
+</svg>
